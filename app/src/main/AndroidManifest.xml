@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.SAR.buildingdrawing">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".PreviewImageActivity"></activity>
+        <activity android:name=".ThreeDModel.ModelActivity"></activity>
+        <activity android:name=".ThreeDActivity"></activity>
+        <activity android:name=".costEstimation" />
+        <activity android:name=".estimates.plasterWall" />
+        <activity android:name=".estimates.plasterCeiling" />
+        <activity android:name=".estimates.wallTilesEstimate" />
+        <activity android:name=".estimates.floorTilesEstimate" />
+        <activity android:name=".estimates.lanterEstimate" />
+        <activity android:name=".estimates.beamEstimate" />
+        <activity android:name=".estimates.paintEstimate" />
+        <activity android:name=".estimates.bricksEstimate" />
+        <activity android:name=".estimation" />
+        <activity android:name=".contactUs" />
+        <activity android:name=".filter" />
+        <activity android:name=".repairAndMaintenance" />
+        <activity android:name=".vendorSignup" />
+        <activity android:name=".account" />
+        <activity android:name=".editProfile" />
+        <activity
+            android:name=".signin"
+            android:screenOrientation="portrait" />
+        <activity android:name=".signup" />
+        <activity
+            android:name=".home"
+            android:screenOrientation="portrait" />
+        <activity android:name=".splashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

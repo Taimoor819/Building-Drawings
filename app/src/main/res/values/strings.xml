@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Building Drawings</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="build_house">Build House</string>
+    <string name="estimation">Estimation</string>
+    <string name="_3d_buildings">3D Buildings</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="write_your_email_here">Enter your email here</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign up</string>
+    <string name="suav">Sign up as vendor</string>
+    <string name="view_and_edit_profile"><![CDATA[View and Edit Profile ->]]></string>
+    <string name="name_of_user">Name of User</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="SVC">Select Vendor Category</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="vendor_category">Vendor Category</string>
+    <string name="repair_and_maintenance">Repair and Maintenance</string>
+    <string name="search">Search</string>
+    <string name="name_of_vendor">Name of Vendor</string>
+    <string name="cui_park_road_islamabad">CUI, Park Road Islamabad.</string>
+    <string name="apply">Apply</string>
+    <string name="rate_app">Rate App</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="address">Address</string>
+    <string name="_92_335_5930911">+92 335 5930911</string>
+    <string name="message_us">Message us</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="bricks_estimate">Bricks Estimate</string>
+    <string name="paint_estimate">Paint Estimate</string>
+    <string name="lanter_estimate">Lanter Estimate</string>
+    <string name="beam_estimate">Beam Estimate</string>
+    <string name="floor_tiles">Floor Tiles</string>
+    <string name="wall_tiles">Wall Tiles</string>
+    <string name="plaster_ceiling">Plaster Ceiling</string>
+    <string name="plaster_wall">Plaster Wall</string>
+    <string name="calculate">Calculate</string>
+    <string name="assumptions">Assumptions</string>
+    <string name="brick_size">Brick Size</string>
+    <string name="weight_of_cement_bag">Weight of Cement Bag</string>
+    <string name="_9inch_4inch_4inch">9inch/4inch/4inch</string>
+    <string name="dimensions">Dimensions</string>
+    <string name="_50_kg">50 KG</string>
+    <string name="room_length">Room Length *</string>
+    <string name="room_width">Room Width *</string>
+    <string name="room_height">Room Height *</string>
+    <string name="brick_length">Brick Length</string>
+    <string name="brick_width">Brick Width</string>
+    <string name="brick_height">Brick Height</string>
+    <string name="in_foot">In foot</string>
+    <string name="in_inches">In Inches</string>
+    <string name="bricks_required">Bricks Required</string>
+    <string name="cement_bags_required">Cement Bags Required</string>
+    <string name="door_size">Door Size</string>
+    <string name="window_size">Window Size</string>
+    <string name="_7_4_foot">7/4 Foot</string>
+    <string name="_5_4_foot">5/4 Foot</string>
+    <string name="nDoors">No. of Doors</string>
+    <string name="no_of_windows">No. of Windows</string>
+    <string name="doors_in_room">Doors in Room</string>
+    <string name="windows2">Windows in Room</string>
+    <string name="steel_per_sq_ft">Steel per Sq Ft</string>
+    <string name="_4_5_kg">4.5 KG</string>
+    <string name="length_of_beam">Length of Beam</string>
+    <string name="width_of_beam">Width of Beam</string>
+    <string name="thickness_of_beam">Thickness of Beam</string>
+    <string name="_3_5_kg">3.5 KG</string>
+    <string name="length_of_lanter">Length of Lanter</string>
+    <string name="width_of_lanter">Width of Lanter</string>
+    <string name="thickness_of_lanter">Thickness of Lanter</string>
+    <string name="tile_size">Tile size</string>
+    <string name="_12inch_12inch">12inch/12inch</string>
+    <string name="tile_length">Tile Length</string>
+    <string name="tw1">Tile Width</string>
+    <string name="_18inch_12inch">18inch/12inch</string>
+    <string name="plaster_thickness">Plaster Thickness</string>
+    <string name="_1_2_inch">1/2 inch</string>
+    <string name="ground_floor">Ground Floor</string>
+    <string name="bed_rooms">Bed Rooms</string>
+    <string name="tv_lounge">TV Lounge</string>
+    <string name="drawing_rooms">Drawing Rooms</string>
+    <string name="bathrooms">Bathrooms</string>
+    <string name="kitchens">Kitchens</string>
+    <string name="estimate_building_cost">Estimate Building Cost</string>
+    <string name="house_type">House Type</string>
+    <string name="plot_size">Plot Size</string>
+    <string name="courtyard_space">Courtyard Space</string>
+    <string name="marla_square_feet">Marla Square Feet</string>
+    <string name="building_storeys">Building Storeys</string>
+    <string name="in_marla">In marla</string>
+    <string name="full_house_estimation">Full House Estimation</string>
+    <string name="material_required">Material Required</string>
+    <string name="cement">CEMENT</string>
+    <string name="sand">SAND</string>
+    <string name="bricks">BRICKS</string>
+    <string name="aggregate">AGGREGATE</string>
+    <string name="steel">STEEL</string>
+    <string name="paint">PAINT</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="rs_5712000">RS. 5712000 /-</string>
+    <string name="item">Item</string>
+
+    <string-array name="bedrooms">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="TVLounge">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="drawingRooms">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="bathrooms">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="kitchens">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="houseType">
+        <item>Normal</item>
+        <item>Luxury</item>
+    </string-array>
+
+    <string-array name="houseGarage">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="houseArea">
+        <item>7</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="houseFloor">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="marlaSqFt">
+        <item>272</item>
+        <item>250</item>
+        <item>225</item>
+    </string-array>
+
+    <string-array name="storeys">
+        <item>Single</item>
+        <item>Double</item>
+        <item>Triple</item>
+    </string-array>
+</resources>
+
+
